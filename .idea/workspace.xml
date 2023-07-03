@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="95e4daf8-849b-40f1-ba8a-26ddf6dc2825" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/SearchStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/SearchStepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/incomeTaxCalculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/incomeTaxCalculator.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/features" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IncomeTaxCalculator" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -100,7 +104,30 @@
       <option name="presentableId" value="Default" />
       <updated>1688175400115</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1688361354070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688361354070</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1626" y="184" key="#Project_Structure" timestamp="1688328457346">
@@ -111,10 +138,14 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="2056" y="333" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1688336586487" />
-    <state x="2106" y="277" key="FileChooserDialogImpl" timestamp="1688333202826">
+    <state x="1952" y="118" key="CommitChangelistDialog2" timestamp="1688361347170">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="2106" y="277" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1688333202826" />
+    <state x="1952" y="118" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1688361347170" />
+    <state x="2106" y="277" key="FileChooserDialogImpl" timestamp="1688365593072">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="277" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1688365593072" />
     <state width="1306" height="370" key="GridCell.Tab.0.bottom" timestamp="1688328763391">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
@@ -135,6 +166,10 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1856" y="177" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1688303611153" />
+    <state x="1918" y="255" key="Vcs.Push.Dialog.v2" timestamp="1688361402914">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="255" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1688361402914" />
     <state x="2078" y="450" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1688303567859">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>

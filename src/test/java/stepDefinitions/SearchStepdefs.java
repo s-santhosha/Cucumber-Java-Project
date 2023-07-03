@@ -13,7 +13,6 @@ public class SearchStepdefs {
     @Given("A user navigates to google HomePage")
     public void aUserNavigatesToGoogleHomePage() throws InterruptedException {
         searchPage.navigateToGoogleHomePage();
-
     }
 
     @When("User enter search {string}")
