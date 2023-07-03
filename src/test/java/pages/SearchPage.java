@@ -14,9 +14,9 @@ import java.util.concurrent.TimeUnit;
 public class SearchPage extends BasePage {
 
     private static final String URL_PAGE = "https://www.google.com";
+    
     private static final By searchField = By.id("APjFqb");
 
-    private static final By searchButton = By.cssSelector(".FPdoLc [value='Google Search']");
     private static final By searchButtonJs = By.cssSelector("[jsname] [value='Google Search']");
 
     public void navigateToGoogleHomePage() throws InterruptedException {
