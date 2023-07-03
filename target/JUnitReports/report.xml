@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="25.88" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Google Search Page" name="Search google homepage" time="25.225">
+<system-out><![CDATA[
+Given A user navigates to google HomePage...................................passed
+When User enter search "This is test "......................................passed
+And Click search button.....................................................passed
+Then search results are displayed...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

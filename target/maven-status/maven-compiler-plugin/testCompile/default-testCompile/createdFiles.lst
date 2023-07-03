@@ -1,0 +1,6 @@
+stepDefinitions\SearchStepdefs.class
+helperMethods\Wait.class
+pages\SearchPage.class
+basePage\BasePage.class
+runner\TestRunner.class
+hooks\Setup.class
