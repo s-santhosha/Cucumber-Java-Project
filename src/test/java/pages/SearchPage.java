@@ -19,7 +19,7 @@ public class SearchPage extends BasePage {
 
     private static final By searchButtonJs = By.cssSelector("[jsname] [value='Google Search']");
 
-    public void navigateToGoogleHomePage() throws InterruptedException {
+    public void navigateToGoogleHomePage() {
         driver.navigate().to(URL_PAGE);
     }
 

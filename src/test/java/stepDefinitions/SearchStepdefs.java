@@ -11,7 +11,7 @@ public class SearchStepdefs {
     SearchPage searchPage = new SearchPage();
 
     @Given("A user navigates to google HomePage")
-    public void aUserNavigatesToGoogleHomePage() throws InterruptedException {
+    public void aUserNavigatesToGoogleHomePage() {
         searchPage.navigateToGoogleHomePage();
     }
 
